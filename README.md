@@ -85,7 +85,9 @@
 
 ### 🤖 AI 工作区
 
-<p align="center"><img src="docs/images/readme/admin-ai-history.png" alt="管理员 AI 经营助手工作区" width="100%"></p>
+| AI 新对话入口 | AI 工作区布局 |
+| --- | --- |
+| <img src="docs/images/readme/admin-ai.png" alt="管理员 AI 助手新对话入口" width="100%"> | <img src="docs/images/readme/admin-ai-history.png" alt="管理员 AI 助手工作区和快捷问题" width="100%"> |
 
 图中没有可用于公开展示的真实模型回答记录。AI 供应商调用、回答质量和 SSE/Checkpoint 恢复尚未完成真实模型验收，详见下方状态说明。
 
